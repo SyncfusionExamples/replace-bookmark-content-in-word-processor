@@ -1,14 +1,14 @@
-# Replace Bookmark Content in Word Processor 
+# Replace Bookmark Content in DOCX Editor (Document Editor)
 
-This repository provides a working example demonstrating how to programmatically replace bookmark content in a Word document using the Syncfusion® Word Processor (Document Editor) component in a web application. It shows how to locate bookmarks within documents and automate the updating or replacement of their contents, enabling dynamic content editing workflows. 
+This repository provides a working example demonstrating how to programmatically replace bookmark content in a Word document using the Syncfusion<sup style="font-size:70%">&reg;</sup> [DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in a web application. It shows how to locate bookmarks within documents and automate the updating or replacement of their contents, enabling dynamic content editing workflows. 
 
 # Resources 
 
-- **Product page:**   [Syncfusion® ASP.NET Core Word Processor](https://www.syncfusion.com/aspnet-core-ui-controls/docx-editor) 
+- **Product page:**   [Syncfusion® ASP.NET Core DOCX Editor](https://www.syncfusion.com/aspnet-core-ui-controls/docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/asp-net-core/getting-started-core) 
+- **Documentation:**   [Syncfusion® DOCX Editor](https://help.syncfusion.com/document-processing/word/word-processor/asp-net-core/getting-started-core?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/aspnetcore/documenteditor/default) 
+- **Online demo:**   [Syncfusion® DOCX Editor - Demo](https://document.syncfusion.com/demos/docx-editor/asp-net-core/documenteditor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
